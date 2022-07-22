@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+ body{
+    background-color: red;
+}
+
+
+
+
+
+#nav ul {
+    list-style: none;
+    float: right;
+}
+
+#nav ul li {
+    float: left;
+     padding: 30px;
+    padding-left: 30px;  
+}
+
+#nav .navbutn {
+    color: rgb(19, 18, 18);
+}
+
+.logo img {
+	width: 250px;
+	margin: 20px;
+}
+
+
+
+
+.hakkımızda {
+	color: red;
+	font-weight: bold;
+	text-shadow: rgba(0, 0, 0, 0.726);
+}
+
+.social-media a:hover{
+    color: red;
+
+}
