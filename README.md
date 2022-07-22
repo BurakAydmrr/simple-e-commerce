@@ -30,12 +30,3 @@ Admin Login information:
 
 
 There may be minor errors in the project. my purpose is to share the codes
-
-
-
-## Admin Page : 
-![Admin](assets/img/screenshot_1.png)
-
-
-## Home Page :
-![Home](assets/img/screenshot_2.png)
